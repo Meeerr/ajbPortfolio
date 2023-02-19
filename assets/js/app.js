@@ -136,7 +136,7 @@ let footer = $(`
              <div class="form-header">
                 <h6 class="display">Contact me</h6>
               </div>
-                <form name="form1" action="./send-mail.php" method="POST" accept-charset="UTF-8" >
+                <form name="form1" action="https://formcarry.com/s/kfWebsJo9z" method="POST" accept-charset="UTF-8" >
                   <input id="name" type="text" name="name" placeholder="Your Name" required/>
                   <input id="email" type="email" name="email" placeholder="Email Address" required/>                  
                   <textarea id="textArea" name="message" placeholder="Type your Message" required></textarea>
